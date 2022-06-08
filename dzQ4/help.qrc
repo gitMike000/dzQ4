@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/help">
+        <file alias="text_en_EN">help.txt</file>
+        <file alias="text_ru_RU">help_ru.txt</file>
+    </qresource>
+</RCC>

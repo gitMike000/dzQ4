@@ -1,0 +1,15 @@
+This is help
+
+Button New - create new file.
+
+Button Open - open file.
+
+Button Save - save current file.
+
+Button ? - open help for this program.
+
+Button Quit - quit program.
+
+Keyboard shortcut - for user change keyboard shortcut.
+
+Also you may change language Engish <-> Russian.
